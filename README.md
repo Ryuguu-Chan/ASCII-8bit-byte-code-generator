@@ -24,5 +24,8 @@ That was what i had in my mind when making this. It's super simple to use.<br/><
 01. Type your ASCII string here<br/>
 ![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/step01.png)<br/><br/>
 
-02. Press on the *GERATE* button<br/>
+02. Press on the *GENERATE* button<br/>
 ![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/step02.png)<br/><br/>
+
+The generated HEX code are on the white-bordered zone.
+Then just copy them and done :]
