@@ -20,5 +20,9 @@ They are generally stored like this:<br/>
 
 Between each ASCII character, there's a NULL byte inserted (00) which can make the task of finding raw ASCII data pretty impractical.
 
-That was what i had in my mind when making this. It's super simple to use.
+That was what i had in my mind when making this. It's super simple to use.<br/><br/>
+01. Type your ASCII string here<br/>
+![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/step01.png)<br/><br/>
 
+02. Press on the *GERATE* button<br/>
+![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/step02.png)<br/><br/>
