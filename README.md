@@ -14,3 +14,4 @@ Among various kind of data stored (Targetted Machine, The base of code, Dependen
 They are generally found in the ASCII resource area (generally found in the last bytes but again. Depending on how the progam was developped, they could be found somewhere else and even be ciphered).
 
 They are generally stored like this
+![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/HEX.PNG)
