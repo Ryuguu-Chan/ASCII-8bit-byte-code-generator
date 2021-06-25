@@ -1,5 +1,6 @@
 # ASCII-8bit-byte-code-generator  
 ![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/img/CC.png)<br/>
+[![alt text](https://github.com/Ryuguu-Chan/ASCII-8bit-byte-code-generator/blob/master/coffee.png)](https://www.buymeacoffee.com/ryuguuchan)<br/>
 This is a web-tool that will make PE modding life easier
 
 Most of PC/IBM programs are in the .exe format which is technically known as a Executable file (or a Portable Executable depending who are you talking to)
