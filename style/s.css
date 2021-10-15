@@ -18,10 +18,12 @@ header > h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#main {
-    text-align: center;
-    margin-right: 20%;
-    margin-left: 20%;
+@media only screen and (min-width: 800px) {
+    #main {
+        text-align: center;
+        margin-right: 20%;
+        margin-left: 20%;
+    }
 }
 
 #Indication {
